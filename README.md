@@ -3,9 +3,9 @@
 Projeto Final do Curso Técnico Integrado de Desenvolvimento de Sistemas - Colégio Pedro II - Campus Duque de Caxias
 
 **Integrantes:**
- - Rafael Hipólito Rodrigues - DS304
- - Daniel Vasconcellos de Jesus - DS304
- - Thársos Lima Gonçalves Xavier Souza - DS304
+ - Rafael *** - DS304
+ - Daniel *** - DS304
+ - Thársos *** - DS304
 
  ## Descrição do Projeto
 
